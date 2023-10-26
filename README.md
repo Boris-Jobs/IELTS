@@ -1,6 +1,6 @@
 ## IELTS
 
-This repository includes three files, 'Syllabus', 'Homework' and 'Technics'.
+\ This repository includes three files, 'Syllabus', 'Homework' and 'Technics'. All content can be seen in branch 'main-content'.
 
 ### Syllabus
 This is about to be updated, please stay tuned.
