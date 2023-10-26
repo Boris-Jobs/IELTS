@@ -1,4 +1,4 @@
-![image](./Image/01.png)
+![image](../Image/01.png)
 The table below shows the information about the patients, average stays and the beds in hospital in three different countries in 1980,1990 and 2000.
 
 Overall, in all three countries, the number of patients and beds in the hospital rose, while the days of staying in the hospital declined.   Throughout this period, the UK had the largest number of patients and the longest time of staying in the hospital. In 1980 and 2000, the US had the largest number of beds, while in 1990, it was replaced by the UK.
