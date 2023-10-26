@@ -50,5 +50,24 @@ dropping from 60g in 1979 to its lowest point of 40g in 1999. Afterward, it rema
 快速的rapidly，sharply，significantly，dramatically，exponentially ，drastically
 
 ### extremum
-最高点：rise to the peak/top/highest point/plateau
+最高点：rise to the peak/top/highest point/plateau<br>
 最低点：fall to the bottom/lowest point
+
+## 高分表达
+句式一：变化主体/图画中主体+趋势动词+副词+数值+时间区间<br>
+Eg: The number of aged people over 65 increased significantly from 1 million in 1940 to 1.2 million in 2000.<br>
+The number of aged people over 65 witnessed a significant increase from 1 million in 1940 to 1.2 million in 2000.
+
+句式二：There be+形容词+表示趋势的名词+in+变化的主体+时间区间<br>
+Eg: There was a significant increase in the number of aged people over 65 from 1 million in 1940 to 1.2million in 2000.
+
+句式三：+show/see/experience/witness+ 表示趋势的名词+in+ 变化的主体+ 数值<br>
+1) The consumption of beef showed an exponential growth, rising to almost 60 million tons.<br>
+2）The period from 1940 to 2000 saw an upward trend in the number of aged people over 65 from 1 million to 1.2 million.<br>
+3）Other workers’ salaries experienced a fall from 28% in 1981 to only 15% of spending in 2001.<br>
+4）This category also witnessed the most dramatic increase in user minutes.<br>
+
+句式四：表示趋势的名词+be+seen/experienced/witnessed+in+变化的主体+时间<br>
+Eg: An upward trend was seen in the number of aged people over 65 from 1 million in 1940 to 1.2million in 2000.
+
+
