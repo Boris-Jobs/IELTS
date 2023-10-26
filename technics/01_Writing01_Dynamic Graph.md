@@ -14,8 +14,7 @@
 
 ### 总结
 1. 升降
-Overall, XX showed an upward trend, while XX displayed a downward trend.  In contrast, XX remained almost stable.<br>
-如果都升那就: Overall, XX showed a rapid increase, while XX displayed a slight rise.
+Overall, XX showed an upward trend, while XX displayed a downward trend.  In contrast, XX remained almost stable.<br>如果都升那就: Overall, XX showed a rapid increase, while XX displayed a slight rise.
 2. 升或者降的最快（可写也可以不写这点，只选一个哪个）
 The most dramatic increase\decrease was seen in XX
 3. 最高+最低（最高都要写，如果最低一直是同一个就要写，不是同一个就不用写）
@@ -62,10 +61,10 @@ The number of aged people over 65 witnessed a significant increase from 1 millio
 Eg: There was a significant increase in the number of aged people over 65 from 1 million in 1940 to 1.2million in 2000.
 
 句式三：+show/see/experience/witness+ 表示趋势的名词+in+ 变化的主体+ 数值<br>
-1) The consumption of beef showed an exponential growth, rising to almost 60 million tons.<br>
-2）The period from 1940 to 2000 saw an upward trend in the number of aged people over 65 from 1 million to 1.2 million.<br>
-3）Other workers’ salaries experienced a fall from 28% in 1981 to only 15% of spending in 2001.<br>
-4）This category also witnessed the most dramatic increase in user minutes.<br>
+1. The consumption of beef showed an exponential growth, rising to almost 60 million tons.<br>
+2. The period from 1940 to 2000 saw an upward trend in the number of aged people over 65 from 1 million to 1.2 million.<br>
+3. Other workers’ salaries experienced a fall from 28% in 1981 to only 15% of spending in 2001.<br>
+4. This category also witnessed the most dramatic increase in user minutes.<br>
 
 句式四：表示趋势的名词+be+seen/experienced/witnessed+in+变化的主体+时间<br>
 Eg: An upward trend was seen in the number of aged people over 65 from 1 million in 1940 to 1.2million in 2000.
