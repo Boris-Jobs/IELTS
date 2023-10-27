@@ -8,4 +8,6 @@
 
 ### 细节
 
-关于...类词汇: With regard to, in terms of, regarding, 
+关于...类词汇: with regard to, in terms of, regarding, concerning
+
+
